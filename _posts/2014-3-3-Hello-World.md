@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog Post
 published: true
 ---
-# This is the first blog post with Jeykyll.
+## H2 This is the first blog post with Jeykyll.
 
-## Howdy Ho!
+### H3 Howdy Ho!
 
