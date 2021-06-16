@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: 'Hi, I''m Mohan'
 permalink: /about/
 published: true
 ---
-
-Hi, I'm Mohan Dhanwani, a Digital Marketer from India.
 
 I help Business Owners & Digital Marketing Professionals in creating better Automation Campaigns that are efficient, & easy to Track. Thus, making it easier to make faster decisions on Marketing Campaigns & achieving better results.
 
