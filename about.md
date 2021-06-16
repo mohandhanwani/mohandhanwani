@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Hi, I''m Mohan'
+title: 'Hi, I''m Mohan Dhanwani'
 permalink: /about/
 published: true
 ---
