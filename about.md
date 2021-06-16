@@ -5,7 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Hi, I'm Mohan. I help Business Owners & Digital Marketing Professionals in creating better Automation Campaigns that are efficient, & easy to Track. Thus, making it easier to make faster decisions on Marketing Campaigns & achieving better results.
+Hi, I'm Mohan Dhanwani, a Digital Marketer from India.
+
+I help Business Owners & Digital Marketing Professionals in creating better Automation Campaigns that are efficient, & easy to Track. Thus, making it easier to make faster decisions on Marketing Campaigns & achieving better results.
+
+I’m also a B-boy (this is where the Beast Mode comes from), Otaku & I like watching Korean Dramas 😉
 
 ### More Information
 
